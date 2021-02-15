@@ -36,13 +36,3 @@ nav,
 section {
 	padding: 100px 0;
 }
-
-.wrapper {
-	width: 50%;
-	margin: auto;
-}
-
-.wrapper nav {
-	float: left;
-	width: 30%;
-}
